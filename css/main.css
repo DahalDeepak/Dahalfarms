@@ -121,7 +121,7 @@ footer {
 
 .flex-item {
     color: #8bf78f;
-    -webkit-text-fill-color: rgb(35, 50, 37) ;
+    -webkit-text-fill-color: #333 ;
     -webkit-text-stroke: 2px 8bf78f(0, 0, 0) ;
     text-shadow: cyan 2px 2px 1px;
     background-color: #8bf78f;
